@@ -12,32 +12,31 @@ This project implements a real-time noise cancellation system using spectral gat
 
 
 ## Project Structure
-'''
+
 real_time_noise_cancellation/
 │
 ├── src/
-│ ├── init.py
-│ ├── main.py
-│ ├── audio_processing.py
-│ ├── noise_cancellation.py
-│ ├── utils.py
-│ ├── logger.py
-│ └── api.py
+│   ├── __init__.py
+│   ├── main.py
+│   ├── audio_processing.py
+│   ├── noise_cancellation.py
+│   ├── utils.py
+│   ├── logger.py
+│   └── api.py
 │
 ├── frontend/
-│ ├── index.html
-│ └── static/
-│ ├── style.css
-│ └── script.js
+│   ├── index.html
+│   └── static/
+│       ├── style.css
+│       └── script.js
 │
 ├── data/
-│ └── output.wav
+│   └── output.wav
 │
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
 
-'''
 
 ## Setup Instructions
 
