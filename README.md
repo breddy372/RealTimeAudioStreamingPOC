@@ -12,7 +12,7 @@ This project implements a real-time noise cancellation system using spectral gat
 
 
 ## Project Structure
-
+'''
 real_time_noise_cancellation/
 │
 ├── src/
@@ -37,7 +37,7 @@ real_time_noise_cancellation/
 ├── Dockerfile
 └── README.md
 
-
+'''
 
 ## Setup Instructions
 
